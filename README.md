@@ -1,3 +1,6 @@
+
+![alt text](https://de.wikipedia.org/wiki/Datei:TensorFlowLogo.svg)
+
 # Introduction to Tensor Flow
 
 This repository is dedicated to the lab section of my e-portfolio called "Introduction to Tensor Flow"
