@@ -1,5 +1,5 @@
 
-![alt text](https://de.wikipedia.org/wiki/Datei:TensorFlowLogo.svg)
+![alt text](https://quintagroup.com/cms/python/images/tensorflow-logo.png)
 
 # Introduction to Tensor Flow
 
