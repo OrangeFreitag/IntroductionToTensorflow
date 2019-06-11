@@ -1,5 +1,7 @@
 
-![alt text](https://quintagroup.com/cms/python/images/tensorflow-logo.png)
+<p align="center">
+  <img src="https://quintagroup.com/cms/python/images/tensorflow-logo.png">
+</p>
 
 # Introduction to Tensor Flow
 
