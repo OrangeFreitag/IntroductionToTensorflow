@@ -1,6 +1,3 @@
-# IntroductionToTensorflow
-This Repository is dedicated to the Softwareengineering e-portfolio called "Introduction to Tensorflow"
-
 # Introduction to Tensor Flow
 
 This repository is dedicated to the lab section of my e-portfolio called "Introduction to Tensor Flow"
