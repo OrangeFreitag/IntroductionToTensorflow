@@ -13,4 +13,4 @@ The lab will be run in Google's Colaboratory, a Jupyter notebook environment tha
 
 Option 1: On this Github repo, navigate to the lab you want to run and open the appropriate python notebook (*.ipynb). Click the "Run in Colab" link on the top of the lab. That's it!
 
-Option 2: Go to Colab, and then select the "GitHub" tab in the pop-up window. Enter the GitHub link to the 6.S191 Repository, and open the relevant lab.
+Option 2: Go to Colab, and then select the "GitHub" tab in the pop-up window. Enter the GitHub link to the Repository, and open the relevant lab.
